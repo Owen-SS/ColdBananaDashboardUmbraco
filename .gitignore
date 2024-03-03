@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ColdBananaDashboard/bin/Debug/net8.0
+/ColdBananaDashboard/obj
+/ColdBananaDashboard/Smidge/Cache/OWENSTADDONF261/dc2e4d1b8c0df8ec74bdcf424e0b4c55cfb53955
+/ColdBananaDashboard/wwwroot/lib/jquery/dist
+/.vs/ColdBananaDashboard
+/ColdBananaDashboard/umbraco
+/ColdBananaDashBoard.ContentModels/bin/Debug/net8.0
+/ColdBananaDashBoard.ContentModels/obj
+/ColdBananaDashboard/wwwroot/lib/bootstrap
+/ColdBananaDashboard/wwwroot/lib/jquery-validation
+/ColdBananaDashboard/wwwroot/lib/jquery
+/ColdBananaDashboard/wwwroot/lib/jquery-validation-unobtrusive
