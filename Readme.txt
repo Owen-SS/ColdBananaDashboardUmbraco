@@ -1,0 +1,1 @@
+This project is an Umbraco package for Cold Banana which gives the company its own custom dashboard!
