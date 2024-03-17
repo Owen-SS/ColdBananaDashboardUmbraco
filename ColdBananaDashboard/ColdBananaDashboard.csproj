@@ -8,6 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="App_Plugins\ColdBananaCustomDashboard\customwelcomedashboard.css" />
+    <Content Include="App_Plugins\ColdBananaCustomDashboard\Lang\en-US.xml" />
+    <Content Include="App_Plugins\ColdBananaCustomDashboard\WelcomeDashboard.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="app_plugins\coldbananacustomdashboard\customwelcomedashboard.controller.js" />
+    <None Include="app_plugins\coldbananacustomdashboard\package.manifest" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Umbraco.Cms" Version="13.1.1" />
   </ItemGroup>
 

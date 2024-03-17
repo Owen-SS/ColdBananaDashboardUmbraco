@@ -1,0 +1,16 @@
+{
+  "dashboards": [
+    {
+      "alias": "ColdBananaCustomDashboard",
+      "view": "/App_Plugins/ColdBananaCustomDashboard/WelcomeDashboard.html",
+      "sections": [ "content" ],
+      "weight": -10
+    }
+  ],
+  "javascript": [
+    "~/App_Plugins/ColdBananaCustomDashboard/customwelcomedashboard.controller.js"
+  ],
+  "css": [
+    "~/App_Plugins/ColdBananaCustomDashboard/customwelcomedashboard.css"
+  ]
+}
